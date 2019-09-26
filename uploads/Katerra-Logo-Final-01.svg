@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Logos" viewBox="0 0 390 200">
+  <defs>
+    <style>.cls-1,.cls-2,.cls-3{fill:#44444e;}.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke:#44444e;}.cls-2,.cls-4{stroke-linecap:round;}.cls-2,.cls-4,.cls-6{stroke-linejoin:bevel;}.cls-2{stroke-width:0.13px;}.cls-3,.cls-5,.cls-6{stroke-linecap:square;}.cls-3,.cls-5{stroke-linejoin:round;}.cls-3,.cls-4,.cls-5,.cls-6{stroke-width:0.94px;}.cls-4,.cls-5,.cls-6{fill:none;}</style>
+  </defs>
+  <title>Katerra Logo Final</title>
+  <g id="Katerra_Final" data-name="Katerra Final">
+    <polygon class="cls-1" points="151.64 113.27 151.69 113.21 148.11 113.19 141.43 120.64 140.65 120.64 140.65 119.65 140.65 119.65 140.65 114.6 140.65 113.29 138.66 113.29 138 113.93 138 114.36 138 129.69 138 130.16 138.66 130.8 140.65 130.8 140.65 129.43 140.65 125.15 140.65 125.15 140.65 123.42 141.43 123.42 148.11 130.81 151.69 130.79 144.85 123.15 143.85 122.03 151.69 113.27 151.64 113.27"></polygon>
+    <polygon class="cls-1" points="182.23 113.29 181.88 113.29 173.62 113.29 171.29 113.29 170.86 113.29 170.22 113.95 170.22 115.94 171.53 115.94 173.47 115.94 175.65 115.94 175.65 130.8 178.29 130.8 178.29 115.94 181.81 115.94 182.49 115.94 182.97 115.94 183.6 115.28 183.6 113.29 182.23 113.29"></polygon>
+    <polygon class="cls-1" points="198.59 115.95 198.59 113.3 190.2 113.3 189.28 113.3 188.21 113.3 187.55 113.94 187.55 114.37 187.55 129.7 187.55 130.17 188.21 130.81 190.2 130.81 190.2 130.8 198.59 130.8 198.59 128.15 190.2 128.15 190.2 123.37 196.25 123.37 196.25 120.73 190.2 120.73 190.2 115.95 198.59 115.95"></polygon>
+    <path class="cls-1" d="M231.54,129.41l-3.91-5.8a5.28,5.28,0,0,0,3.77-5h0a5.28,5.28,0,0,0-5.27-5.27h-5.85l-.64.66v16.82h2.63v-6.9h2.32l4.7,6.9h3.17Zm-7.34-8.17h-1.94V116h3.94a2.52,2.52,0,0,1,2.51,2.51v.27a2.52,2.52,0,0,1-2.51,2.51Z"></path>
+    <path class="cls-1" d="M215.15,129.41l-3.91-5.8a5.28,5.28,0,0,0,3.77-5h0a5.28,5.28,0,0,0-5.27-5.27h-5.86l-.63.66v16.82h2.63v-6.9h2.32l4.7,6.9h3.17Zm-7.35-8.17h-1.93V116h3.94a2.52,2.52,0,0,1,2.51,2.51v.27a2.52,2.52,0,0,1-2.51,2.51Z"></path>
+    <path class="cls-1" d="M249.32,130.8H252l-7-17-.6-.47v0h-1.75v0l-.6.47-7,17h2.68l1.59-3.83h8.49Zm-9-6.35,3.2-7.73,3.21,7.73Z"></path>
+    <path class="cls-1" d="M167.85,130.75h2.68l-7-17-.59-.47v0h-1.76v0l-.6.47-7,17h2.69l1.58-3.83h8.5Zm-9-6.35,3.2-7.73,3.2,7.73Z"></path>
+    <rect class="cls-2" x="206.45" y="73.25" width="0.65" height="0.65"></rect>
+    <rect class="cls-2" x="209.83" y="77.42" width="0.65" height="0.65"></rect>
+    <line class="cls-3" x1="209.76" y1="78.14" x2="202.63" y2="85.27"></line>
+    <rect class="cls-2" x="209.83" y="95.74" width="0.65" height="0.65"></rect>
+    <line class="cls-3" x1="209.76" y1="95.66" x2="202.63" y2="88.54"></line>
+    <path class="cls-4" d="M202.63,88.54c-1.23-1.09-1.17-2.26-.17-3.09"></path>
+    <line class="cls-3" x1="206.43" y1="73.92" x2="195.78" y2="84.57"></line>
+    <line class="cls-3" x1="206.42" y1="99.93" x2="195.78" y2="89.29"></line>
+    <path class="cls-4" d="M195.78,89.29c-1.77-1.57-1.69-3.25-.25-4.45"></path>
+    <rect class="cls-2" x="206.45" y="99.96" width="0.65" height="0.65"></rect>
+    <rect class="cls-2" x="212.01" y="82.76" width="0.65" height="0.65"></rect>
+    <line class="cls-5" x1="212.01" y1="83.42" x2="210.25" y2="85.18"></line>
+    <line class="cls-5" x1="211.98" y1="90.45" x2="210.25" y2="88.71"></line>
+    <path class="cls-4" d="M210.25,88.71c-1.33-1.17-1.27-2.43-.19-3.33"></path>
+    <rect class="cls-2" x="212.01" y="90.48" width="0.65" height="0.65"></rect>
+    <line class="cls-6" x1="187.34" y1="71.89" x2="187.34" y2="101.68"></line>
+    <rect class="cls-2" x="187.01" y="71.1" width="0.65" height="0.65" transform="translate(4.36 153.39) rotate(-45)"></rect>
+    <rect class="cls-2" x="187.01" y="101.89" width="0.65" height="0.65" transform="translate(-17.41 162.41) rotate(-45)"></rect>
+    <rect class="cls-2" x="182.29" y="74.7" width="0.65" height="0.65" transform="translate(0.44 151.1) rotate(-45)"></rect>
+    <rect class="cls-2" x="182.29" y="98.34" width="0.65" height="0.65" transform="translate(-16.28 158.03) rotate(-45)"></rect>
+    <line class="cls-6" x1="182.61" y1="75.49" x2="182.61" y2="98.13"></line>
+    <rect class="cls-2" x="177.56" y="90.72" width="0.65" height="0.65" transform="translate(-12.27 152.45) rotate(-45)"></rect>
+    <rect class="cls-2" x="177.56" y="82.48" width="0.65" height="0.65" transform="translate(-6.45 150.04) rotate(-45)"></rect>
+    <line class="cls-6" x1="177.89" y1="83.27" x2="177.89" y2="90.58"></line>
+    <path class="cls-5" d="M192,70.12v7.54a1.44,1.44,0,0,0,.13.58l.07.15a1.27,1.27,0,0,0,.62.59h0a1.43,1.43,0,0,0,.56.08h.17a1.89,1.89,0,0,0,.34-.09h0l.11-.06c.08,0,.56-.5.71-.64L202,71"></path>
+    <rect class="cls-2" x="191.62" y="69.33" width="0.65" height="0.65" transform="translate(6.97 156.13) rotate(-45)"></rect>
+    <rect class="cls-2" x="201.99" y="70.26" width="0.65" height="0.65"></rect>
+    <path class="cls-5" d="M192,103.5V96a1.44,1.44,0,0,1,.13-.58l.07-.14a1.25,1.25,0,0,1,.62-.6h0a1.43,1.43,0,0,1,.56-.08h.17a1.89,1.89,0,0,1,.34.09h0l.11.06c.08,0,.56.5.71.64l7.29,7.3"></path>
+    <rect class="cls-2" x="191.62" y="103.69" width="0.65" height="0.65" transform="translate(129.77 -105.26) rotate(45)"></rect>
+    <rect class="cls-2" x="201.99" y="102.75" width="0.65" height="0.65"></rect>
+  </g>
+</svg>
